@@ -1,0 +1,19 @@
+{
+    "short_name": "SAGA",
+    "name": "Hypergea SAGA",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "logo_512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "background_color": "#fff",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#fff",
+    "shortcuts": [
+    ],
+    "description": "Satellite Alerts for Ground Astronomy"
+}
